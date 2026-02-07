@@ -1,0 +1,7 @@
+{
+  "name": "Crystal Pop Quest",
+  "description": "A premium, magical Match-3 crystal adventure with glowing gems, strategic power-ups, and addictive gravity-based gameplay.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
